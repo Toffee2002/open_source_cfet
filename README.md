@@ -1,2 +1,2 @@
 # open_source_cfet
-code for research meeting
+code for group meeting
